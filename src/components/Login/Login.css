@@ -1,0 +1,53 @@
+.login-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+.login {
+  border: 1px solid #95a0a7;
+  padding: 42px;
+  border-radius: 8px;
+  
+}
+.login-title {
+  font-family: Lato;
+  font-size: 35px;
+  font-weight: 400;
+  line-height: 42px;
+  letter-spacing: 0.0025em;
+  text-align: left;
+  text-align: center;
+}
+.login form label{
+	display: block;
+	margin-top: 20px;
+}
+.login form input{
+	height: 55px;
+width: 415px;
+border-radius: 5px;
+
+}
+.login-btn{
+	height: 55px;
+width: 415px;
+background: #FF99004D;
+margin-top: 42px;
+border-radius: 5px;
+
+}
+.link{
+	text-decoration: none;
+	color: #FF9900;
+
+}
+.or{
+	stroke:#95a0a7 ;
+	
+}
+.google{
+	background-color: white;	height: 55px;
+	width: 415px;
+	margin-top: 42px;
+	border-radius: 5px;
+}
